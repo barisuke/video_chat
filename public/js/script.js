@@ -1,6 +1,6 @@
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyDUQ_HbFaDNI2m6rW0lvrwL44jXhu9I-G8",
+    apiKey: "yourapikey",
     authDomain: "chatapp-8feee.firebaseapp.com",
     databaseURL: "https://chatapp-8feee.firebaseio.com",
     projectId: "chatapp-8feee",
