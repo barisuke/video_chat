@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-    apiKey: "yourapikey",
-    authDomain: "chatapp-8feee.firebaseapp.com",
-    databaseURL: "https://chatapp-8feee.firebaseio.com",
-    projectId: "chatapp-8feee",
-    storageBucket: "chatapp-8feee.appspot.com",
-    messagingSenderId: "839668175481"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
 firebase.initializeApp(config);
 
